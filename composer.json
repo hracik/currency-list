@@ -1,0 +1,14 @@
+{
+    "name": "hracik/currency-list",
+    "description": "To get array of currently used list of currencies.",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Hracik\\CurrencyList\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.2.5",
+        "symfony/intl": "^5.1"
+    }
+}
