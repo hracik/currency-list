@@ -19,6 +19,7 @@ class CurrencyList
 		'CNX', //Chinese dollar
 		'COU', //It is a unit of account in Colombia
 		'CSK', //Czechoslovak koruna,1993
+        'CUC', //Cuban Convertible Peso
 		'CYP', //Cypriot pound,2008
 		'DDM', //East German mark
 		'NLG', //Dutch guilder,2002
