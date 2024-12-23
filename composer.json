@@ -8,7 +8,7 @@
         }
     },
     "require": {
-        "php": ">=7.2.5",
-        "symfony/intl": "^5.1"
+        "php": ">=7.4",
+        "symfony/intl": "^6.4"
     }
 }
